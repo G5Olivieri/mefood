@@ -1,11 +1,24 @@
 # Tasks
 
 ## [Design](https://www.figma.com/file/DEv8lkKsKif0hOmOt05KRt/mefood?type=design&node-id=0%3A1&mode=design&t=TwkMhzCoyQUUPDkl-1)
-  - [ ] Adjust spacings
-  - [ ] Define typograph
-  - [ ] Define Iconigraphy
   - [ ] Responsive Website
   - [ ] Restaurant CRUD
+  - [ ] Fix Spacings
+  - [ ] Add Grid (12 columns)
+  - Design System
+    - [X] Should we use Material Design 3 ?
+      - [x] Yes
+      - [ ] No
+      - [x] Add [Material Theme Builder](https://www.figma.com/community/plugin/1034969338659738588/material-theme-builder)
+    - [x] Spacings (scale of 4 - 4, 8, 12, 16, 20, 24, 28, 32 e etc)
+    - [ ] Typograph
+      - [x] Font Family (Roboto)
+      - [ ] Heading
+      - [ ] Paragraph
+    - [ ] Define Iconigraphy
+    - [ ] Define elevation (box shadow)
+    - [ ] Define shapes (border round)
+  
 
 ## Development
 - [ ] Project boostrap
