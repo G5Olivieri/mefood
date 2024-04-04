@@ -40,7 +40,7 @@
       - [ ] React Native
       - [ ] [Typescript](https://www.typescriptlang.org/)
       - [ ] Internationalization and Localization
-      - [ ] [Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+      - [ ] Accessibility
       - [ ] [docker compose](https://docs.docker.com/compose/)
       - [ ] Testing
       - [ ] Static Analyzer and Formatter
