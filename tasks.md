@@ -10,6 +10,8 @@
       - [x] Yes
       - [ ] No
       - [x] Add [Material Theme Builder](https://www.figma.com/community/plugin/1034969338659738588/material-theme-builder)
+      - [x] Use [Material Kit](https://www.figma.com/community/file/1035203688168086460)
+      - Ref https://m3.material.io/
     - [x] Spacings (scale of 4 - 4, 8, 12, 16, 20, 24, 28, 32 e etc)
     - [ ] Typograph
       - [x] Font Family (Roboto)
