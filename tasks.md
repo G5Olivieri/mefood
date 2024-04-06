@@ -26,16 +26,10 @@
 - [ ] Project boostrap
     - [ ] `backend`, `frontend` and `app` directories in a single/mono repository
     - [ ] backend
-      - [ ] nodejs 20.x
+      - [ ] Django Rest Framework
+      - [ ] PostgreSQL
+      - [ ] Keycloak (OpenID Provider)
       - [ ] [docker compose](https://docs.docker.com/compose/)
-      - [ ] [REST](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-      - [ ] [NestJS](https://docs.nestjs.com/)
-      - [ ] [Typescript](https://www.typescriptlang.org/)
-      - [ ] [PostgreSQL](https://www.postgresql.org/)
-      - [ ] [TypeORM](https://typeorm.io/)
-      - [ ] Static Analyzer and Formatter
-        - [ ] ESLint (default NestJS)
-        - [ ] Prettier (default NestJS)
     - [ ] Frontend
       - [ ] nodejs 20.x
       - [ ] [docker compose](https://docs.docker.com/compose/)
