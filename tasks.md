@@ -22,5 +22,5 @@
 
 ## Development
 - [ ] Project boostrap
-- [ ] Restaurant (CRUD)
-- [ ] Menu (CRUD)
+- [ ] Store (CRUD)
+- [ ] Catalog (CRUD)
