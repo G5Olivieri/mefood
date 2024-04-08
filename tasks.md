@@ -19,8 +19,20 @@
     - [x] Define elevation (box shadow)
     - [x] Define shapes (border round)
   
-
 ## Development
 - [ ] Project boostrap
+  - [x] Keycloak
+  - [x] Postgres
+  - [ ] Backend
+    - [x] Keycloak setup
+    - [x] Postgres Setup
+    - [ ] Testing
+    - [ ] Linting
+  - [ ] Frontend
+    - [x] I18n
+    - [x] Keycloak setup
+    - [ ] Testing
+    - [ ] Linting
+- [ ] Design System
 - [ ] Store (CRUD)
 - [ ] Catalog (CRUD)
